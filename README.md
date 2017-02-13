@@ -1,4 +1,4 @@
-# Welcome to the MacAdmins Slack Team.
+# Welcome to the Indivisible Denver Technology Committee.
 
 ## Introduction
 This community is a complement to the Indivisible Denver Technology Committee online resources and seeks to provide a safe, friendly community for our members to interact with one another and the broader Indivisble organization.
@@ -7,13 +7,13 @@ We hope that you find the community to be enriching to your personal and profess
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--Indivisible Denver Slack Administrative Team
+-Indivisible Denver Technology Committee Administrative Team
 
 ---
 
 ## Code Of Conduct
 
-All are welcome to participate in the Slack team as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the Technology team as long as the tenets of this Code of Conduct are adhered to.
 
 ## Short Version:
 
@@ -38,9 +38,9 @@ For further information, you are invited to take a look at the documents on the 
 
 ### Policies
 
-The Indivisible Denver Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Indivisible Denver Technology Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
-We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Indivisible Denver Slack at the discretion of the Administrative Team.
+We do not tolerate harassment of Technology participants in any form. Sexual language and imagery is not appropriate for any venue. Technology Committee participants violating these rules may be sanctioned or expelled from the Indivisible Denver Technology Committee at the discretion of the Administrative Team.
 
 Harassment includes, but is not limited to:
 
@@ -61,7 +61,7 @@ Harassment includes, but is not limited to:
 ### Enforcement
 Participants asked to stop any harassing behavior are expected to comply immediately
 
-If a participant engages in harassing behaviour, the Administrative Team retain the right to take any actions to keep the event a welcoming environment for all participants, including warning the offender or expulsion of the offender from the MacAdmins Slack.
+If a participant engages in harassing behaviour, the Administrative Team retain the right to take any actions to keep the event a welcoming environment for all participants, including warning the offender or expulsion of the offender from the Indivisible Denver Technology Committee.
 
 The Administrative Team may take action to redress anything designed for, or with the clear impact of, disrupting the community or making the environment hostile for any participants.
 
@@ -71,10 +71,10 @@ We expect participants to follow these rules in all public and private channels 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The Indivisible Denver Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+The Indivisible Denver Technology Committee recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 The Administrative Team will handle all reports with discretion.
 
 If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-If you have concerns regarding this Slack team, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+If you have concerns regarding the Technology Committee, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
