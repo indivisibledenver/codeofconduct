@@ -1,13 +1,13 @@
 # Welcome to the MacAdmins Slack Team.
 
 ## Introduction
-This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+This community is a complement to the Indivisible Denver Technology Committee online resources and seeks to provide a safe, friendly community for our members to interact with one another and the broader Indivisble organization.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--MacAdmins Slack Administrative Team
+-Indivisible Denver Slack Administrative Team
 
 ---
 
@@ -29,18 +29,18 @@ Additionally, if you are a reporter or a member of the press:
 * you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
 * if you want to interview someone about something, you need to let that person know that it's an interview and inform them about where their comments may end up being published
 
-Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
+Everyone is welcome to participate, and no judgement will be made on members of the greater Indivisible community who are not a part of the community.
 
-For further information, you are invited to take a look at the documents on the MacAdmins.org GitHub page, they include contact information for administrators, dispute resolution steps and an etiquette guide. This GitHub page is also open to any pull requests and suggestions for change.
+For further information, you are invited to take a look at the documents on the Indivisible Denver GitHub page. This GitHub page is also open to any pull requests and suggestions for change.
 
 ## Long Version:
 
 
 ### Policies
 
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Indivisible Denver Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
-We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
+We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Indivisible Denver Slack at the discretion of the Administrative Team.
 
 Harassment includes, but is not limited to:
 
@@ -71,9 +71,7 @@ We expect participants to follow these rules in all public and private channels 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The MacAdmins Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
-
-[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
+The Indivisible Denver Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 The Administrative Team will handle all reports with discretion.
 
